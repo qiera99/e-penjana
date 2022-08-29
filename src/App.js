@@ -14,6 +14,7 @@ function App() {
       <h1 className = "text-3xl font-serif font-bold text-center animate-bounce">MY PENJANA PROJECT</h1>
       <button class="bg-blue-800 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"  
       onClick = {() => navigate('/landing')}>Go to HomePage</button>
+      <p>Faqirah 2022 e-penjana</p>
     </div>
   );
 }
